@@ -1,7 +1,10 @@
 # Exercise-04c-Enemies
 
 ## Implementation
-
+- added coins
+- player can collect coins
+- added enemy that can move
+- player can kill enemy
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
@@ -14,4 +17,4 @@ https://kenney.nl/assets/pixel-platformer
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Anna Banks
